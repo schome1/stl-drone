@@ -16,7 +16,8 @@ STL Files
 
 ## Canopy
 
-  <img width="142" alt="Screenshot 2022-11-11 at 8 21 11 PM" src="https://user-images.githubusercontent.com/763644/201452123-463e6d49-de1d-408b-aa89-2a7e16e9f71c.png">
+  <img width="142" alt="Screenshot 2022-11-11 at 8 21 11 PM" src="https://user-images.githubusercontent.com/763644/201452123-463e6d49-de1d-408b-aa89-2a7e16e9f71c.png"> <img width="150" alt="Screenshot 2022-11-11 at 8 32 40 PM" src="https://user-images.githubusercontent.com/763644/201452588-d1b34369-7be9-4a39-9a05-8cef1cee50ca.png">
+
 
 Specifications
 * Designed to securely hold the FPV camera
@@ -26,6 +27,6 @@ Specifications
 * 1.8 grams
 
 STL Files
-* [HDZERO Nano Lite (20 degree camera angle)](https://github.com/schome1/stl-drone/blob/main/canopy_hdzero-nano-lite-20deg.stl)
-* [HDZERO Nano Lite (30 degree camera angle)](https://github.com/schome1/stl-drone/blob/main/canopy_hdzero-nano-lite-30deg.stl)
-* [Caddx Ant Lite (30 degree camera angle)](https://github.com/schome1/stl-drone/blob/main/cr75-canopy-caddx-ant-light.stl)
+* [HDZERO Nano Lite (20 degree camera angle)](https://github.com/schome1/stl-drone/blob/main/canopy-hdzero-nano-lite-20deg.stl)
+* [HDZERO Nano Lite (30 degree camera angle)](https://github.com/schome1/stl-drone/blob/main/canopy-hdzero-nano-lite-30deg.stl)
+* [Caddx Ant Lite (30 degree camera angle)](https://github.com/schome1/stl-drone/blob/main/canopy-caddx-ant-lite-30deg.stl)
