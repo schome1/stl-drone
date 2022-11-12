@@ -1,7 +1,6 @@
 # 75mm Indoor Drone with Prop Guards
 
 ## Battery Mount
-  <img width="185" alt="Screenshot 2022-11-11 at 8 02 55 PM" src="https://user-images.githubusercontent.com/763644/201451372-c71a232d-428f-4177-ad69-1e84f0a2df2f.png">
 
 Specifications
 * Flexible strap design allows for easy battery insertion
@@ -15,9 +14,6 @@ STL Files
 * [Tattu R-Line 550mAh 2S LiPO](https://github.com/schome1/stl-drone/blob/main/battery-mount-tattu-rline-2s-550.stl)
 
 ## Canopy
-
-  <img width="142" alt="Screenshot 2022-11-11 at 8 21 11 PM" src="https://user-images.githubusercontent.com/763644/201452123-463e6d49-de1d-408b-aa89-2a7e16e9f71c.png"> <img width="150" alt="Screenshot 2022-11-11 at 8 32 40 PM" src="https://user-images.githubusercontent.com/763644/201452588-d1b34369-7be9-4a39-9a05-8cef1cee50ca.png">
-
 
 Specifications
 * Designed to securely hold the FPV camera
