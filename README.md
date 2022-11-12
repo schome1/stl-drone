@@ -1,2 +1,2 @@
-# stl-drone-75mm-indoor
- STL files for 75mm indoor drone.
+# stl-drone
+ STL files for drones.
